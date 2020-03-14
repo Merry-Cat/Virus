@@ -24,13 +24,12 @@ npm install 安装，命令行 npm run serve 开发模式运行，npm run build 
 所有的数据请求都来自于这里 https://github.com/BlankerL/DXY-COVID-19-Crawler,
 ```
 ## 网页截图
-```
+
 ![疫情概览](https://gitee.com/ThxMay/Virus/blob/master/img/IMG_2029.PNG)
 ![疫情地图](https://gitee.com/ThxMay/Virus/blob/master/img/IMG_2030.PNG)
 ![实时播报](https://gitee.com/ThxMay/Virus/blob/master/img/IMG_2032.PNG)
 ![疾病知识](https://gitee.com/ThxMay/Virus/blob/master/img/IMG_2033.PNG)
 ![省级数据](https://gitee.com/ThxMay/Virus/blob/master/img/IMG_2034.PNG)
-```
 ## 结语
 ```
 项目比较简单，适合新手练手。还有些功能没有完善，需要的可以自行完善。
