@@ -25,11 +25,11 @@ npm install 安装，命令行 npm run serve 开发模式运行，npm run build 
 ```
 ## 网页截图
 
-![疫情概览](https://gitee.com/ThxMay/Virus/raw/master/img/IMG_2029.PNG)
-![疫情地图](https://gitee.com/ThxMay/Virus/raw/master/img/IMG_2030.PNG)
-![实时播报](https://gitee.com/ThxMay/Virus/raw/master/img/IMG_2032.PNG)
-![疾病知识](https://gitee.com/ThxMay/Virus/raw/master/img/IMG_2033.PNG)
-![省级数据](https://gitee.com/ThxMay/Virus/raw/master/img/IMG_2034.PNG)
+<img src="https://gitee.com/ThxMay/Virus/raw/master/img/IMG_2029.PNG" style="width:40%;height:40%" alt="疫情预览">
+<img src="https://gitee.com/ThxMay/Virus/raw/master/img/IMG_2030.PNG" style="width:40%;height:40%" alt="疫情地图">
+<img src="https://gitee.com/ThxMay/Virus/raw/master/img/IMG_2032.PNG" style="width:40%;height:40%" alt="实时播报">
+<img src="https://gitee.com/ThxMay/Virus/raw/master/img/IMG_2033.PNG" style="width:40%;height:40%" alt="疾病知识">
+<img src="https://gitee.com/ThxMay/Virus/raw/master/img/IMG_2034.PNG" style="width:40%;height:40%" alt="升级数据">
 ## 结语
 ```
 项目比较简单，适合新手练手。还有些功能没有完善，需要的可以自行完善。
