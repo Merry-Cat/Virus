@@ -20,9 +20,9 @@ npm install 安装，命令行 npm run serve 开发模式运行，npm run build 
 ```
 
 ## 数据请求接口
-```
-所有的数据请求都来自于这里 https://github.com/BlankerL/DXY-COVID-19-Crawler,
-```
+
+<h3>所有的数据请求都来自于这里: <a href="https://github.com/BlankerL/DXY-COVID-19-Crawler" style="text-decoration:none">https://github.com/BlankerL/DXY-COVID-19-Crawler</a></h3>
+
 ## 网页截图
 
 <img src="https://gitee.com/ThxMay/Virus/raw/master/img/IMG_2029.PNG" width="40%" height="40%" alt="疫情预览">
@@ -30,9 +30,11 @@ npm install 安装，命令行 npm run serve 开发模式运行，npm run build 
 <img src="https://gitee.com/ThxMay/Virus/raw/master/img/IMG_2032.PNG" width="40%" height="40%" alt="实时播报">
 <img src="https://gitee.com/ThxMay/Virus/raw/master/img/IMG_2033.PNG" width="40%" height="40%" alt="疾病知识">
 <img src="https://gitee.com/ThxMay/Virus/raw/master/img/IMG_2034.PNG" width="40%" height="40%" alt="升级数据">
-## 结语
-```
-项目比较简单，适合新手练手。还有些功能没有完善，需要的可以自行完善。
 
-原网址地址  https://ncov.dxy.cn/ncovh5/view/pneumonia
-```
+## 结语
+<div>
+项目比较简单，适合新手练手。还有些功能没有完善，需要的可以自行完善。
+</div>
+<div>
+原网址地址 <a href="https://ncov.dxy.cn/ncovh5/view/pneumonia" style="text-decoration:none">https://ncov.dxy.cn/ncovh5/view/pneumonia</a>
+
