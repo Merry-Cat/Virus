@@ -21,7 +21,7 @@
     "@vue/cli-plugin-babel": "^3.8.0",
     "@vue/cli-service": "^3.8.0",
     "echarts": "^4.6.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "terser-webpack-plugin": "^2.3.5",
     "vue-template-compiler": "^2.6.10"
   }
